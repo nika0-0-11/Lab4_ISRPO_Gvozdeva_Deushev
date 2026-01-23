@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Привет меня зовут Гвоздева Вероника Александровна");
+Console.WriteLine("Привет меня зовут Деушев Тимур Тимурович");
