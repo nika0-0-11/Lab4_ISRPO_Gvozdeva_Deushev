@@ -50,7 +50,7 @@
             - text.txt
         - logs/
             - app.log
-    README.md
+    - README.md
 
 ---
 
