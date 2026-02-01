@@ -105,6 +105,7 @@ $$
 
 ## [Скриншоты из папки repo/](#содержание)
 
+![Screenshot commit](/repo/git_Gvozdeva_Deushev.png)
 
 ---
 
